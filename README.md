@@ -28,7 +28,7 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
 
 ---
 
-<div align="center">
+ <div align="center">
 
   <div style="text-align: center; margin-top: 20px;">
     <a href="https://github.com/mkhai2589">
@@ -37,10 +37,14 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
   </div>
 
   ---
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkhai2589&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkhai2589&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+
+  <div style="display: flex; justify-content: center; align-items: stretch; gap: 30px; margin-bottom: 30px; flex-wrap: nowrap;">
+    <div style="display: flex; align-items: center; justify-content: center; flex: 1; max-width: 45%;">
+      <img height="auto" style="max-height: 180px; width: 100%; object-fit: contain;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkhai2589&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; flex: 1; max-width: 45%;">
+      <img height="auto" style="max-height: 180px; width: 100%; object-fit: contain;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkhai2589&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+    </div>
   </div>
-  
 
 </div>
