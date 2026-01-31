@@ -38,22 +38,17 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
 
   ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkhai2589&theme=tokyonight"
-        height="180"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkhai2589&theme=tokyonight"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkhai2589&theme=transparent"
+    height="180"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkhai2589&theme=transparent"
+    height="180"
+  />
+</p>
+
 
 
 
