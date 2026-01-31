@@ -17,21 +17,15 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
 
 ---
 
-
 ### 🧰 Tech Stack 
 
 <div align="left" style="font-family: 'Segoe UI', system-ui, sans-serif;">
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,python,js,react,html,bootstrap,mysql" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,wordpress,git,github,githubactions" height="40"/>
+</p>
 
-#### 🖥️ Programming & Development
-* **Backend & Systems:** PHP Laravel .NET C# Python * **Frontend & UX:** JavaScript React HTML5 Bootstrap * **Data & Infrastructure:** MySQL Microsoft SQL Server REST APIs
-
-#### 🎨 Design, Prototyping & CMS
-* **Design & Prototyping:** Figma Adobe Photoshop Adobe Illustrator Blender * **CMS & Platforms:** WordPress Wix * **Workflow & Delivery:** Git GitHub Actions Agile/Scrum
-
-#### 📈 SEO, Analytics & Marketing
-* **SEO & Analytics:** Google Search Console Google Analytics Ahrefs SEMrush Screaming Frog * **Marketing Platforms:** Google Ads WordPress SE Ranking Keyword Planner * **Conversion & UX:** Figma Adobe XD A/B Testing Funnel Optimization
-
-</div>
 
 
 ---
@@ -42,3 +36,7 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkhai2589&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkhai2589&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+
+---
+
