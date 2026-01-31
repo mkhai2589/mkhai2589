@@ -23,42 +23,13 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
 <div align="left" style="font-family: 'Segoe UI', system-ui, sans-serif;">
 
 #### 🖥️ Programming & Development
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MS SQL" />
-</div>
+* **Backend & Systems:** PHP Laravel .NET C# Python * **Frontend & UX:** JavaScript React HTML5 Bootstrap * **Data & Infrastructure:** MySQL Microsoft SQL Server REST APIs
 
 #### 🎨 Design, Prototyping & CMS
-<div>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=white" alt="Wix" />
-</div>
+* **Design & Prototyping:** Figma Adobe Photoshop Adobe Illustrator Blender * **CMS & Platforms:** WordPress Wix * **Workflow & Delivery:** Git GitHub Actions Agile/Scrum
 
 #### 📈 SEO, Analytics & Marketing
-<div>
-  <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?logo=googlesearchconsole&logoColor=white" alt="Search Console" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white" alt="Analytics" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/SEMrush-FF6B6B?logo=semrush&logoColor=white" alt="SEMrush" />
-  <img src="https://img.shields.io/badge/Ahrefs-000000?logo=ahrefs&logoColor=white" alt="Ahrefs" />
-  <img src="https://img.shields.io/badge/Screaming%20Frog-1F9B74?logo=screamingfrog&logoColor=white" alt="Screaming Frog" />
-  <img src="https://img.shields.io/badge/SE%20Ranking-5CC64C?logo=seranking&logoColor=white" alt="SE Ranking" />
-  <img src="https://img.shields.io/badge/Keyword%20Planner-4285F4?logo=google&logoColor=white" alt="Keyword Planner" />
-</div>
+* **SEO & Analytics:** Google Search Console Google Analytics Ahrefs SEMrush Screaming Frog * **Marketing Platforms:** Google Ads WordPress SE Ranking Keyword Planner * **Conversion & UX:** Figma Adobe XD A/B Testing Funnel Optimization
 
 </div>
 
