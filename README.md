@@ -28,8 +28,6 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
 
 ---
 
-## <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<em><strong>GitHub Analytics</strong></em></p>
-
 <div align="center">
 
   <div style="text-align: center; margin-top: 20px;">
@@ -37,6 +35,8 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mkhai2589&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
     </a>
   </div>
+
+  ---
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;">
     <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkhai2589&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkhai2589&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
