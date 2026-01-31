@@ -17,7 +17,7 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
 
 ---
 
-### 🧰 Tech Stack 
+### <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<em><strong>Tech Stack</strong></em></p>
 
 <div align="left" style="font-family: 'Segoe UI', system-ui, sans-serif;">
 <p>
@@ -26,17 +26,21 @@ I architect, optimize, and scale web systems where **technical execution, UX, an
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,wordpress,git,github,githubactions" height="40"/>
 </p>
 
-
-
 ---
 
-## 📊 GitHub Analytics
+## <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<em><strong>GitHub Analytics</strong></em></p>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkhai2589&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkhai2589&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<div align="center">
 
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="https://github.com/mkhai2589">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mkhai2589&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;">
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkhai2589&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkhai2589&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+  </div>
+  
 
----
-
+</div>
