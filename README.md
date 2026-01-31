@@ -7,7 +7,21 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=SEO+%26+WEBSITE+SYSTEM+ARCHITECT;TURNING+CODE+INTO+BUSINESS+GROWTH)
 
-**Digital Marketing Executive & SEO Specialist** Where **technical execution, UX, and SEO strategy** combine to create **sustainable organic growth** and real business impact.
+<div align="left">
+
+<h2 id="about-me">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26"/>
+    <span style="letter-spacing:3px;">
+  ABOUT ME 
+     </span>
+</h2>
+
+<p>
+Digital Marketing Executive & SEO Specialist Where technical execution, UX, and SEO strategy combine to create sustainable organic growth and real business impact.
+</p>
+</div>
+
+
 
 <br/>
 <br/>
