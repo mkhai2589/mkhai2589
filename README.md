@@ -5,7 +5,8 @@
   Hi, I'm <span style="color:#36BCF7;"><b>Minh Khai</b></span>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=SEO+%26+WEBSITE+SYSTEM+ARCHITECT;TURNING+CODE+INTO+BUSINESS+GROWTH)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=TECHNICAL+SEO+%26+WEBSITE+SYSTEMS;WORDPRESS+PERFORMANCE+STRUCTURE+UX)
+
 
 <div align="left">
 
@@ -17,7 +18,7 @@
 </h2>
 
 <p>
-Digital Marketing Executive & SEO Specialist Where technical execution, UX, and SEO strategy combine to create sustainable organic growth and real business impact.
+I work on the technical side of SEO, focusing on website structure, performance, and long term maintainability. My work is centered around building systems that are clear, stable, and scalable for both users and search engines.
 </p>
 </div>
 
