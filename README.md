@@ -28,9 +28,10 @@ I work on the technical side of SEO, focusing on website structure, performance,
 <br/>
 
 <p align="center">
-  <a href="mailto:mkhai2589@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&to=mkhai2589@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
 
   <a href="https://wa.me/84333090930">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
